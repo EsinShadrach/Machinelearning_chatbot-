@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/rafe/codes/deeplearning/redo/model2.tflearn"
+all_model_checkpoint_paths: "/home/rafe/codes/deeplearning/redo/model2.tflearn"
